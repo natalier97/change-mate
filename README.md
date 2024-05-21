@@ -82,4 +82,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Feel free to modify and expand upon this README template according to your app's specific requirements and functionalities!
